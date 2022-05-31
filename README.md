@@ -4,3 +4,6 @@ Our first DSCI100 Git Repository
 Hello Summer 2022 Class!
 
 🐼
+
+We can clone our project down into our home folder.
+Use the https URL.
